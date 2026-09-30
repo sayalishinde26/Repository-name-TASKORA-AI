@@ -5,4 +5,5 @@ python-dotenv
 Pillow
 python-pptx
 reportlab
+python-docx
 PyPDF2
